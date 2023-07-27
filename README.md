@@ -2,7 +2,11 @@
 
 This project was created by the [TAT](https://talkingabouttesting.com/) school and is part of the Basic Automated Testing with Cypress course. 
 
-The aim of the course is to practice basic commands by solving the exercises proposed in this [repository](https://github.com/wlsf82/cypress-basico-v2/tree/main/lessons) .  
+The aim of the course is to practice basic commands by solving the exercises proposed in this [repository](https://github.com/wlsf82/cypress-basico-v2/tree/main/lessons).
+
+### Content covered in the course
+
+Among the topics covered in the course are: continuous integration (CI) with Github Actions, custom commands, using libraries like Lodash, running tests in headless mode and through the cypress interface.
 
 ## Pre-requirements
 
