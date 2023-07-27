@@ -14,4 +14,8 @@ describe('Tests the select elements', () => {
     it('Selects a product (Blog) by its index', () => {
         cy.get('select').select(1).should('have.value', 'blog')
     });
+
+    it('Select a product (Cursos) by its text', () => {
+        cy.get('select').select('Cursos').should('have.value', 'cursos')
+    });
 });
